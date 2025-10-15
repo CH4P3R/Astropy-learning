@@ -14,8 +14,8 @@ Installation:
    git clone https://github.com/CH4P3R/Astropy-learning.git <br/>
    cd Astropy-learning
 
-2. Create and activate the Conda environment:
-   conda env create -f environment.yml
+2. Create and activate the Conda environment: <br/>
+   conda env create -f environment.yml <br/>
    conda activate astropy-env
 
 Notes:
