@@ -11,7 +11,7 @@ Requirements:
 Installation:
 
 1. Clone the repository:
-   git clone https://github.com/CH4P3R/Astropy-learning.git
+   git clone https://github.com/CH4P3R/Astropy-learning.git <br/>
    cd Astropy-learning
 
 2. Create and activate the Conda environment:
